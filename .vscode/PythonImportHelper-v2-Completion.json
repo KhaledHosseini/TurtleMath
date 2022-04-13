@@ -1,0 +1,868 @@
+[
+    {
+        "label": "randrange",
+        "importPath": "random",
+        "description": "random",
+        "isExtraImport": true,
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "random",
+        "description": "random",
+        "isExtraImport": true,
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "choice",
+        "importPath": "random",
+        "description": "random",
+        "isExtraImport": true,
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "importPath": "random",
+        "description": "random",
+        "isExtraImport": true,
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "randrange",
+        "importPath": "random",
+        "description": "random",
+        "isExtraImport": true,
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "random",
+        "description": "random",
+        "isExtraImport": true,
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "importPath": "random",
+        "description": "random",
+        "isExtraImport": true,
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "randint",
+        "importPath": "random",
+        "description": "random",
+        "isExtraImport": true,
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "random",
+        "description": "random",
+        "isExtraImport": true,
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "turtle",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "turtle",
+        "description": "turtle",
+        "detail": "turtle",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "turtle",
+        "description": "turtle",
+        "isExtraImport": true,
+        "detail": "turtle",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "turtle",
+        "description": "turtle",
+        "isExtraImport": true,
+        "detail": "turtle",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "turtle",
+        "description": "turtle",
+        "isExtraImport": true,
+        "detail": "turtle",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "turtle",
+        "description": "turtle",
+        "isExtraImport": true,
+        "detail": "turtle",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "turtle",
+        "description": "turtle",
+        "isExtraImport": true,
+        "detail": "turtle",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "turtle",
+        "description": "turtle",
+        "isExtraImport": true,
+        "detail": "turtle",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "turtle",
+        "description": "turtle",
+        "isExtraImport": true,
+        "detail": "turtle",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "turtle",
+        "description": "turtle",
+        "isExtraImport": true,
+        "detail": "turtle",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "turtle",
+        "description": "turtle",
+        "isExtraImport": true,
+        "detail": "turtle",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "turtle",
+        "description": "turtle",
+        "isExtraImport": true,
+        "detail": "turtle",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "turtle",
+        "description": "turtle",
+        "isExtraImport": true,
+        "detail": "turtle",
+        "documentation": {}
+    },
+    {
+        "label": "vector",
+        "importPath": "freegames",
+        "description": "freegames",
+        "isExtraImport": true,
+        "detail": "freegames",
+        "documentation": {}
+    },
+    {
+        "label": "line",
+        "importPath": "freegames",
+        "description": "freegames",
+        "isExtraImport": true,
+        "detail": "freegames",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "freegames",
+        "description": "freegames",
+        "isExtraImport": true,
+        "detail": "freegames",
+        "documentation": {}
+    },
+    {
+        "label": "vector",
+        "importPath": "freegames",
+        "description": "freegames",
+        "isExtraImport": true,
+        "detail": "freegames",
+        "documentation": {}
+    },
+    {
+        "label": "square",
+        "importPath": "freegames",
+        "description": "freegames",
+        "isExtraImport": true,
+        "detail": "freegames",
+        "documentation": {}
+    },
+    {
+        "label": "vector",
+        "importPath": "freegames",
+        "description": "freegames",
+        "isExtraImport": true,
+        "detail": "freegames",
+        "documentation": {}
+    },
+    {
+        "label": "line",
+        "importPath": "freegames",
+        "description": "freegames",
+        "isExtraImport": true,
+        "detail": "freegames",
+        "documentation": {}
+    },
+    {
+        "label": "floor",
+        "importPath": "freegames",
+        "description": "freegames",
+        "isExtraImport": true,
+        "detail": "freegames",
+        "documentation": {}
+    },
+    {
+        "label": "vector",
+        "importPath": "freegames",
+        "description": "freegames",
+        "isExtraImport": true,
+        "detail": "freegames",
+        "documentation": {}
+    },
+    {
+        "label": "line",
+        "importPath": "freegames",
+        "description": "freegames",
+        "isExtraImport": true,
+        "detail": "freegames",
+        "documentation": {}
+    },
+    {
+        "label": "vector",
+        "importPath": "freegames",
+        "description": "freegames",
+        "isExtraImport": true,
+        "detail": "freegames",
+        "documentation": {}
+    },
+    {
+        "label": "decimal_range",
+        "importPath": "Mibo.Helper",
+        "description": "Mibo.Helper",
+        "isExtraImport": true,
+        "detail": "Mibo.Helper",
+        "documentation": {}
+    },
+    {
+        "label": "Button",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "Mibo",
+        "importPath": "Mibo.Mibo",
+        "description": "Mibo.Mibo",
+        "isExtraImport": true,
+        "detail": "Mibo.Mibo",
+        "documentation": {}
+    },
+    {
+        "label": "tap",
+        "kind": 2,
+        "importPath": "Mibo.Games.Cannon",
+        "description": "Mibo.Games.Cannon",
+        "peekOfCode": "def tap(x, y):\n    \"\"\"Respond to screen tap.\"\"\"\n    if not inside(ball):\n        ball.x = -199\n        ball.y = -199\n        speed.x = (x + 200) / 25\n        speed.y = (y + 200) / 25\ndef inside(xy):\n    \"\"\"Return True if xy within screen.\"\"\"\n    return -200 < xy.x < 200 and -200 < xy.y < 200",
+        "detail": "Mibo.Games.Cannon",
+        "documentation": {}
+    },
+    {
+        "label": "inside",
+        "kind": 2,
+        "importPath": "Mibo.Games.Cannon",
+        "description": "Mibo.Games.Cannon",
+        "peekOfCode": "def inside(xy):\n    \"\"\"Return True if xy within screen.\"\"\"\n    return -200 < xy.x < 200 and -200 < xy.y < 200\ndef draw():\n    \"\"\"Draw ball and targets.\"\"\"\n    clear()\n    for target in targets:\n        goto(target.x, target.y)\n        dot(20, 'blue')\n    if inside(ball):",
+        "detail": "Mibo.Games.Cannon",
+        "documentation": {}
+    },
+    {
+        "label": "draw",
+        "kind": 2,
+        "importPath": "Mibo.Games.Cannon",
+        "description": "Mibo.Games.Cannon",
+        "peekOfCode": "def draw():\n    \"\"\"Draw ball and targets.\"\"\"\n    clear()\n    for target in targets:\n        goto(target.x, target.y)\n        dot(20, 'blue')\n    if inside(ball):\n        goto(ball.x, ball.y)\n        dot(6, 'red')\n    update()",
+        "detail": "Mibo.Games.Cannon",
+        "documentation": {}
+    },
+    {
+        "label": "move",
+        "kind": 2,
+        "importPath": "Mibo.Games.Cannon",
+        "description": "Mibo.Games.Cannon",
+        "peekOfCode": "def move():\n    \"\"\"Move ball and targets.\"\"\"\n    if randrange(40) == 0:\n        y = randrange(-150, 150)\n        target = vector(200, y)\n        targets.append(target)\n    for target in targets:\n        target.x -= 0.5\n    if inside(ball):\n        speed.y -= 0.35",
+        "detail": "Mibo.Games.Cannon",
+        "documentation": {}
+    },
+    {
+        "label": "ball",
+        "kind": 5,
+        "importPath": "Mibo.Games.Cannon",
+        "description": "Mibo.Games.Cannon",
+        "peekOfCode": "ball = vector(-200, -200)\nspeed = vector(0, 0)\ntargets = []\ndef tap(x, y):\n    \"\"\"Respond to screen tap.\"\"\"\n    if not inside(ball):\n        ball.x = -199\n        ball.y = -199\n        speed.x = (x + 200) / 25\n        speed.y = (y + 200) / 25",
+        "detail": "Mibo.Games.Cannon",
+        "documentation": {}
+    },
+    {
+        "label": "speed",
+        "kind": 5,
+        "importPath": "Mibo.Games.Cannon",
+        "description": "Mibo.Games.Cannon",
+        "peekOfCode": "speed = vector(0, 0)\ntargets = []\ndef tap(x, y):\n    \"\"\"Respond to screen tap.\"\"\"\n    if not inside(ball):\n        ball.x = -199\n        ball.y = -199\n        speed.x = (x + 200) / 25\n        speed.y = (y + 200) / 25\ndef inside(xy):",
+        "detail": "Mibo.Games.Cannon",
+        "documentation": {}
+    },
+    {
+        "label": "targets",
+        "kind": 5,
+        "importPath": "Mibo.Games.Cannon",
+        "description": "Mibo.Games.Cannon",
+        "peekOfCode": "targets = []\ndef tap(x, y):\n    \"\"\"Respond to screen tap.\"\"\"\n    if not inside(ball):\n        ball.x = -199\n        ball.y = -199\n        speed.x = (x + 200) / 25\n        speed.y = (y + 200) / 25\ndef inside(xy):\n    \"\"\"Return True if xy within screen.\"\"\"",
+        "detail": "Mibo.Games.Cannon",
+        "documentation": {}
+    },
+    {
+        "label": "grid",
+        "kind": 2,
+        "importPath": "Mibo.Games.ConnectFour",
+        "description": "Mibo.Games.ConnectFour",
+        "peekOfCode": "def grid():\n    \"\"\"Draw Connect Four grid.\"\"\"\n    bgcolor('light blue')\n    for x in range(-150, 200, 50):\n        line(x, -200, x, 200)\n    for x in range(-175, 200, 50):\n        for y in range(-175, 200, 50):\n            up()\n            goto(x, y)\n            dot(40, 'white')",
+        "detail": "Mibo.Games.ConnectFour",
+        "documentation": {}
+    },
+    {
+        "label": "tap",
+        "kind": 2,
+        "importPath": "Mibo.Games.ConnectFour",
+        "description": "Mibo.Games.ConnectFour",
+        "peekOfCode": "def tap(x, y):\n    \"\"\"Draw red or yellow circle in tapped row.\"\"\"\n    player = state['player']\n    rows = state['rows']\n    row = int((x + 200) // 50)\n    count = rows[row]\n    x = ((x + 200) // 50) * 50 - 200 + 25\n    y = count * 50 - 200 + 25\n    up()\n    goto(x, y)",
+        "detail": "Mibo.Games.ConnectFour",
+        "documentation": {}
+    },
+    {
+        "label": "turns",
+        "kind": 5,
+        "importPath": "Mibo.Games.ConnectFour",
+        "description": "Mibo.Games.ConnectFour",
+        "peekOfCode": "turns = {'red': 'yellow', 'yellow': 'red'}\nstate = {'player': 'yellow', 'rows': [0] * 8}\ndef grid():\n    \"\"\"Draw Connect Four grid.\"\"\"\n    bgcolor('light blue')\n    for x in range(-150, 200, 50):\n        line(x, -200, x, 200)\n    for x in range(-175, 200, 50):\n        for y in range(-175, 200, 50):\n            up()",
+        "detail": "Mibo.Games.ConnectFour",
+        "documentation": {}
+    },
+    {
+        "label": "state",
+        "kind": 5,
+        "importPath": "Mibo.Games.ConnectFour",
+        "description": "Mibo.Games.ConnectFour",
+        "peekOfCode": "state = {'player': 'yellow', 'rows': [0] * 8}\ndef grid():\n    \"\"\"Draw Connect Four grid.\"\"\"\n    bgcolor('light blue')\n    for x in range(-150, 200, 50):\n        line(x, -200, x, 200)\n    for x in range(-175, 200, 50):\n        for y in range(-175, 200, 50):\n            up()\n            goto(x, y)",
+        "detail": "Mibo.Games.ConnectFour",
+        "documentation": {}
+    },
+    {
+        "label": "square",
+        "kind": 2,
+        "importPath": "Mibo.Games.Memory",
+        "description": "Mibo.Games.Memory",
+        "peekOfCode": "def square(x, y):\n    \"\"\"Draw white square with black outline at (x, y).\"\"\"\n    up()\n    goto(x, y)\n    down()\n    color('black', 'white')\n    begin_fill()\n    for count in range(4):\n        forward(50)\n        left(90)",
+        "detail": "Mibo.Games.Memory",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 2,
+        "importPath": "Mibo.Games.Memory",
+        "description": "Mibo.Games.Memory",
+        "peekOfCode": "def index(x, y):\n    \"\"\"Convert (x, y) coordinates to tiles index.\"\"\"\n    return int((x + 200) // 50 + ((y + 200) // 50) * 8)\ndef xy(count):\n    \"\"\"Convert tiles count to (x, y) coordinates.\"\"\"\n    return (count % 8) * 50 - 200, (count // 8) * 50 - 200\ndef tap(x, y):\n    \"\"\"Update mark and hidden tiles based on tap.\"\"\"\n    spot = index(x, y)\n    mark = state['mark']",
+        "detail": "Mibo.Games.Memory",
+        "documentation": {}
+    },
+    {
+        "label": "xy",
+        "kind": 2,
+        "importPath": "Mibo.Games.Memory",
+        "description": "Mibo.Games.Memory",
+        "peekOfCode": "def xy(count):\n    \"\"\"Convert tiles count to (x, y) coordinates.\"\"\"\n    return (count % 8) * 50 - 200, (count // 8) * 50 - 200\ndef tap(x, y):\n    \"\"\"Update mark and hidden tiles based on tap.\"\"\"\n    spot = index(x, y)\n    mark = state['mark']\n    if mark is None or mark == spot or tiles[mark] != tiles[spot]:\n        state['mark'] = spot\n    else:",
+        "detail": "Mibo.Games.Memory",
+        "documentation": {}
+    },
+    {
+        "label": "tap",
+        "kind": 2,
+        "importPath": "Mibo.Games.Memory",
+        "description": "Mibo.Games.Memory",
+        "peekOfCode": "def tap(x, y):\n    \"\"\"Update mark and hidden tiles based on tap.\"\"\"\n    spot = index(x, y)\n    mark = state['mark']\n    if mark is None or mark == spot or tiles[mark] != tiles[spot]:\n        state['mark'] = spot\n    else:\n        hide[spot] = False\n        hide[mark] = False\n        state['mark'] = None",
+        "detail": "Mibo.Games.Memory",
+        "documentation": {}
+    },
+    {
+        "label": "draw",
+        "kind": 2,
+        "importPath": "Mibo.Games.Memory",
+        "description": "Mibo.Games.Memory",
+        "peekOfCode": "def draw():\n    \"\"\"Draw image and tiles.\"\"\"\n    clear()\n    goto(0, 0)\n    shape(car)\n    stamp()\n    for count in range(64):\n        if hide[count]:\n            x, y = xy(count)\n            square(x, y)",
+        "detail": "Mibo.Games.Memory",
+        "documentation": {}
+    },
+    {
+        "label": "car",
+        "kind": 5,
+        "importPath": "Mibo.Games.Memory",
+        "description": "Mibo.Games.Memory",
+        "peekOfCode": "car = path('car.gif')\ntiles = list(range(32)) * 2\nstate = {'mark': None}\nhide = [True] * 64\ndef square(x, y):\n    \"\"\"Draw white square with black outline at (x, y).\"\"\"\n    up()\n    goto(x, y)\n    down()\n    color('black', 'white')",
+        "detail": "Mibo.Games.Memory",
+        "documentation": {}
+    },
+    {
+        "label": "tiles",
+        "kind": 5,
+        "importPath": "Mibo.Games.Memory",
+        "description": "Mibo.Games.Memory",
+        "peekOfCode": "tiles = list(range(32)) * 2\nstate = {'mark': None}\nhide = [True] * 64\ndef square(x, y):\n    \"\"\"Draw white square with black outline at (x, y).\"\"\"\n    up()\n    goto(x, y)\n    down()\n    color('black', 'white')\n    begin_fill()",
+        "detail": "Mibo.Games.Memory",
+        "documentation": {}
+    },
+    {
+        "label": "state",
+        "kind": 5,
+        "importPath": "Mibo.Games.Memory",
+        "description": "Mibo.Games.Memory",
+        "peekOfCode": "state = {'mark': None}\nhide = [True] * 64\ndef square(x, y):\n    \"\"\"Draw white square with black outline at (x, y).\"\"\"\n    up()\n    goto(x, y)\n    down()\n    color('black', 'white')\n    begin_fill()\n    for count in range(4):",
+        "detail": "Mibo.Games.Memory",
+        "documentation": {}
+    },
+    {
+        "label": "hide",
+        "kind": 5,
+        "importPath": "Mibo.Games.Memory",
+        "description": "Mibo.Games.Memory",
+        "peekOfCode": "hide = [True] * 64\ndef square(x, y):\n    \"\"\"Draw white square with black outline at (x, y).\"\"\"\n    up()\n    goto(x, y)\n    down()\n    color('black', 'white')\n    begin_fill()\n    for count in range(4):\n        forward(50)",
+        "detail": "Mibo.Games.Memory",
+        "documentation": {}
+    },
+    {
+        "label": "value",
+        "kind": 2,
+        "importPath": "Mibo.Games.Pong",
+        "description": "Mibo.Games.Pong",
+        "peekOfCode": "def value():\n    \"\"\"Randomly generate value between (-5, -3) or (3, 5).\"\"\"\n    return (3 + random() * 2) * choice([1, -1])\nball = vector(0, 0)\naim = vector(value(), value())\nstate = {1: 0, 2: 0}\ndef move(player, change):\n    \"\"\"Move player position by change.\"\"\"\n    state[player] += change\ndef rectangle(x, y, width, height):",
+        "detail": "Mibo.Games.Pong",
+        "documentation": {}
+    },
+    {
+        "label": "move",
+        "kind": 2,
+        "importPath": "Mibo.Games.Pong",
+        "description": "Mibo.Games.Pong",
+        "peekOfCode": "def move(player, change):\n    \"\"\"Move player position by change.\"\"\"\n    state[player] += change\ndef rectangle(x, y, width, height):\n    \"\"\"Draw rectangle at (x, y) with given width and height.\"\"\"\n    up()\n    goto(x, y)\n    down()\n    begin_fill()\n    for count in range(2):",
+        "detail": "Mibo.Games.Pong",
+        "documentation": {}
+    },
+    {
+        "label": "rectangle",
+        "kind": 2,
+        "importPath": "Mibo.Games.Pong",
+        "description": "Mibo.Games.Pong",
+        "peekOfCode": "def rectangle(x, y, width, height):\n    \"\"\"Draw rectangle at (x, y) with given width and height.\"\"\"\n    up()\n    goto(x, y)\n    down()\n    begin_fill()\n    for count in range(2):\n        forward(width)\n        left(90)\n        forward(height)",
+        "detail": "Mibo.Games.Pong",
+        "documentation": {}
+    },
+    {
+        "label": "draw",
+        "kind": 2,
+        "importPath": "Mibo.Games.Pong",
+        "description": "Mibo.Games.Pong",
+        "peekOfCode": "def draw():\n    \"\"\"Draw game and move pong ball.\"\"\"\n    clear()\n    rectangle(-200, state[1], 10, 50)\n    rectangle(190, state[2], 10, 50)\n    ball.move(aim)\n    x = ball.x\n    y = ball.y\n    up()\n    goto(x, y)",
+        "detail": "Mibo.Games.Pong",
+        "documentation": {}
+    },
+    {
+        "label": "ball",
+        "kind": 5,
+        "importPath": "Mibo.Games.Pong",
+        "description": "Mibo.Games.Pong",
+        "peekOfCode": "ball = vector(0, 0)\naim = vector(value(), value())\nstate = {1: 0, 2: 0}\ndef move(player, change):\n    \"\"\"Move player position by change.\"\"\"\n    state[player] += change\ndef rectangle(x, y, width, height):\n    \"\"\"Draw rectangle at (x, y) with given width and height.\"\"\"\n    up()\n    goto(x, y)",
+        "detail": "Mibo.Games.Pong",
+        "documentation": {}
+    },
+    {
+        "label": "aim",
+        "kind": 5,
+        "importPath": "Mibo.Games.Pong",
+        "description": "Mibo.Games.Pong",
+        "peekOfCode": "aim = vector(value(), value())\nstate = {1: 0, 2: 0}\ndef move(player, change):\n    \"\"\"Move player position by change.\"\"\"\n    state[player] += change\ndef rectangle(x, y, width, height):\n    \"\"\"Draw rectangle at (x, y) with given width and height.\"\"\"\n    up()\n    goto(x, y)\n    down()",
+        "detail": "Mibo.Games.Pong",
+        "documentation": {}
+    },
+    {
+        "label": "state",
+        "kind": 5,
+        "importPath": "Mibo.Games.Pong",
+        "description": "Mibo.Games.Pong",
+        "peekOfCode": "state = {1: 0, 2: 0}\ndef move(player, change):\n    \"\"\"Move player position by change.\"\"\"\n    state[player] += change\ndef rectangle(x, y, width, height):\n    \"\"\"Draw rectangle at (x, y) with given width and height.\"\"\"\n    up()\n    goto(x, y)\n    down()\n    begin_fill()",
+        "detail": "Mibo.Games.Pong",
+        "documentation": {}
+    },
+    {
+        "label": "change",
+        "kind": 2,
+        "importPath": "Mibo.Games.Snake",
+        "description": "Mibo.Games.Snake",
+        "peekOfCode": "def change(x, y):\n    \"\"\"Change snake direction.\"\"\"\n    aim.x = x\n    aim.y = y\ndef inside(head):\n    \"\"\"Return True if head inside boundaries.\"\"\"\n    return -200 < head.x < 190 and -200 < head.y < 190\ndef move():\n    \"\"\"Move snake forward one segment.\"\"\"\n    head = snake[-1].copy()",
+        "detail": "Mibo.Games.Snake",
+        "documentation": {}
+    },
+    {
+        "label": "inside",
+        "kind": 2,
+        "importPath": "Mibo.Games.Snake",
+        "description": "Mibo.Games.Snake",
+        "peekOfCode": "def inside(head):\n    \"\"\"Return True if head inside boundaries.\"\"\"\n    return -200 < head.x < 190 and -200 < head.y < 190\ndef move():\n    \"\"\"Move snake forward one segment.\"\"\"\n    head = snake[-1].copy()\n    head.move(aim)\n    if not inside(head) or head in snake:\n        square(head.x, head.y, 9, 'red')\n        update()",
+        "detail": "Mibo.Games.Snake",
+        "documentation": {}
+    },
+    {
+        "label": "move",
+        "kind": 2,
+        "importPath": "Mibo.Games.Snake",
+        "description": "Mibo.Games.Snake",
+        "peekOfCode": "def move():\n    \"\"\"Move snake forward one segment.\"\"\"\n    head = snake[-1].copy()\n    head.move(aim)\n    if not inside(head) or head in snake:\n        square(head.x, head.y, 9, 'red')\n        update()\n        return\n    snake.append(head)\n    if head == food:",
+        "detail": "Mibo.Games.Snake",
+        "documentation": {}
+    },
+    {
+        "label": "food",
+        "kind": 5,
+        "importPath": "Mibo.Games.Snake",
+        "description": "Mibo.Games.Snake",
+        "peekOfCode": "food = vector(0, 0)\nsnake = [vector(10, 0)]\naim = vector(0, -10)\ndef change(x, y):\n    \"\"\"Change snake direction.\"\"\"\n    aim.x = x\n    aim.y = y\ndef inside(head):\n    \"\"\"Return True if head inside boundaries.\"\"\"\n    return -200 < head.x < 190 and -200 < head.y < 190",
+        "detail": "Mibo.Games.Snake",
+        "documentation": {}
+    },
+    {
+        "label": "snake",
+        "kind": 5,
+        "importPath": "Mibo.Games.Snake",
+        "description": "Mibo.Games.Snake",
+        "peekOfCode": "snake = [vector(10, 0)]\naim = vector(0, -10)\ndef change(x, y):\n    \"\"\"Change snake direction.\"\"\"\n    aim.x = x\n    aim.y = y\ndef inside(head):\n    \"\"\"Return True if head inside boundaries.\"\"\"\n    return -200 < head.x < 190 and -200 < head.y < 190\ndef move():",
+        "detail": "Mibo.Games.Snake",
+        "documentation": {}
+    },
+    {
+        "label": "aim",
+        "kind": 5,
+        "importPath": "Mibo.Games.Snake",
+        "description": "Mibo.Games.Snake",
+        "peekOfCode": "aim = vector(0, -10)\ndef change(x, y):\n    \"\"\"Change snake direction.\"\"\"\n    aim.x = x\n    aim.y = y\ndef inside(head):\n    \"\"\"Return True if head inside boundaries.\"\"\"\n    return -200 < head.x < 190 and -200 < head.y < 190\ndef move():\n    \"\"\"Move snake forward one segment.\"\"\"",
+        "detail": "Mibo.Games.Snake",
+        "documentation": {}
+    },
+    {
+        "label": "spinner",
+        "kind": 2,
+        "importPath": "Mibo.Games.Spinner",
+        "description": "Mibo.Games.Spinner",
+        "peekOfCode": "def spinner():\n    \"\"\"Draw fidget spinner.\"\"\"\n    clear()\n    angle = state['turn'] / 10\n    right(angle)\n    forward(100)\n    dot(120, 'red')\n    back(100)\n    right(120)\n    forward(100)",
+        "detail": "Mibo.Games.Spinner",
+        "documentation": {}
+    },
+    {
+        "label": "animate",
+        "kind": 2,
+        "importPath": "Mibo.Games.Spinner",
+        "description": "Mibo.Games.Spinner",
+        "peekOfCode": "def animate():\n    \"\"\"Animate fidget spinner.\"\"\"\n    if state['turn'] > 0:\n        state['turn'] -= 1\n    spinner()\n    ontimer(animate, 20)\ndef flick():\n    \"\"\"Flick fidget spinner.\"\"\"\n    state['turn'] += 10\nsetup(420, 420, 370, 0)",
+        "detail": "Mibo.Games.Spinner",
+        "documentation": {}
+    },
+    {
+        "label": "flick",
+        "kind": 2,
+        "importPath": "Mibo.Games.Spinner",
+        "description": "Mibo.Games.Spinner",
+        "peekOfCode": "def flick():\n    \"\"\"Flick fidget spinner.\"\"\"\n    state['turn'] += 10\nsetup(420, 420, 370, 0)\nhideturtle()\ntracer(False)\nwidth(20)\nonkey(flick, 'space')\nlisten()\nanimate()",
+        "detail": "Mibo.Games.Spinner",
+        "documentation": {}
+    },
+    {
+        "label": "state",
+        "kind": 5,
+        "importPath": "Mibo.Games.Spinner",
+        "description": "Mibo.Games.Spinner",
+        "peekOfCode": "state = {'turn': 0}\ndef spinner():\n    \"\"\"Draw fidget spinner.\"\"\"\n    clear()\n    angle = state['turn'] / 10\n    right(angle)\n    forward(100)\n    dot(120, 'red')\n    back(100)\n    right(120)",
+        "detail": "Mibo.Games.Spinner",
+        "documentation": {}
+    },
+    {
+        "label": "grid",
+        "kind": 2,
+        "importPath": "Mibo.Games.TicTacToe",
+        "description": "Mibo.Games.TicTacToe",
+        "peekOfCode": "def grid():\n    \"\"\"Draw tic-tac-toe grid.\"\"\"\n    line(-67, 200, -67, -200)\n    line(67, 200, 67, -200)\n    line(-200, -67, 200, -67)\n    line(-200, 67, 200, 67)\ndef drawx(x, y):\n    \"\"\"Draw X player.\"\"\"\n    line(x, y, x + 133, y + 133)\n    line(x, y + 133, x + 133, y)",
+        "detail": "Mibo.Games.TicTacToe",
+        "documentation": {}
+    },
+    {
+        "label": "drawx",
+        "kind": 2,
+        "importPath": "Mibo.Games.TicTacToe",
+        "description": "Mibo.Games.TicTacToe",
+        "peekOfCode": "def drawx(x, y):\n    \"\"\"Draw X player.\"\"\"\n    line(x, y, x + 133, y + 133)\n    line(x, y + 133, x + 133, y)\ndef drawo(x, y):\n    \"\"\"Draw O player.\"\"\"\n    up()\n    goto(x + 67, y + 5)\n    down()\n    circle(62)",
+        "detail": "Mibo.Games.TicTacToe",
+        "documentation": {}
+    },
+    {
+        "label": "drawo",
+        "kind": 2,
+        "importPath": "Mibo.Games.TicTacToe",
+        "description": "Mibo.Games.TicTacToe",
+        "peekOfCode": "def drawo(x, y):\n    \"\"\"Draw O player.\"\"\"\n    up()\n    goto(x + 67, y + 5)\n    down()\n    circle(62)\ndef floor(value):\n    \"\"\"Round value down to grid with square size 133.\"\"\"\n    return ((value + 200) // 133) * 133 - 200\nstate = {'player': 0}",
+        "detail": "Mibo.Games.TicTacToe",
+        "documentation": {}
+    },
+    {
+        "label": "floor",
+        "kind": 2,
+        "importPath": "Mibo.Games.TicTacToe",
+        "description": "Mibo.Games.TicTacToe",
+        "peekOfCode": "def floor(value):\n    \"\"\"Round value down to grid with square size 133.\"\"\"\n    return ((value + 200) // 133) * 133 - 200\nstate = {'player': 0}\nplayers = [drawx, drawo]\ndef tap(x, y):\n    \"\"\"Draw X or O in tapped square.\"\"\"\n    x = floor(x)\n    y = floor(y)\n    player = state['player']",
+        "detail": "Mibo.Games.TicTacToe",
+        "documentation": {}
+    },
+    {
+        "label": "tap",
+        "kind": 2,
+        "importPath": "Mibo.Games.TicTacToe",
+        "description": "Mibo.Games.TicTacToe",
+        "peekOfCode": "def tap(x, y):\n    \"\"\"Draw X or O in tapped square.\"\"\"\n    x = floor(x)\n    y = floor(y)\n    player = state['player']\n    draw = players[player]\n    draw(x, y)\n    update()\n    state['player'] = not player\nsetup(420, 420, 370, 0)",
+        "detail": "Mibo.Games.TicTacToe",
+        "documentation": {}
+    },
+    {
+        "label": "state",
+        "kind": 5,
+        "importPath": "Mibo.Games.TicTacToe",
+        "description": "Mibo.Games.TicTacToe",
+        "peekOfCode": "state = {'player': 0}\nplayers = [drawx, drawo]\ndef tap(x, y):\n    \"\"\"Draw X or O in tapped square.\"\"\"\n    x = floor(x)\n    y = floor(y)\n    player = state['player']\n    draw = players[player]\n    draw(x, y)\n    update()",
+        "detail": "Mibo.Games.TicTacToe",
+        "documentation": {}
+    },
+    {
+        "label": "players",
+        "kind": 5,
+        "importPath": "Mibo.Games.TicTacToe",
+        "description": "Mibo.Games.TicTacToe",
+        "peekOfCode": "players = [drawx, drawo]\ndef tap(x, y):\n    \"\"\"Draw X or O in tapped square.\"\"\"\n    x = floor(x)\n    y = floor(y)\n    player = state['player']\n    draw = players[player]\n    draw(x, y)\n    update()\n    state['player'] = not player",
+        "detail": "Mibo.Games.TicTacToe",
+        "documentation": {}
+    },
+    {
+        "label": "load",
+        "kind": 2,
+        "importPath": "Mibo.Games.Tiles",
+        "description": "Mibo.Games.Tiles",
+        "peekOfCode": "def load():\n    \"\"\"Load tiles and scramble.\"\"\"\n    count = 1\n    for y in range(-200, 200, 100):\n        for x in range(-200, 200, 100):\n            mark = vector(x, y)\n            tiles[mark] = count\n            count += 1\n    tiles[mark] = None\n    for count in range(1000):",
+        "detail": "Mibo.Games.Tiles",
+        "documentation": {}
+    },
+    {
+        "label": "square",
+        "kind": 2,
+        "importPath": "Mibo.Games.Tiles",
+        "description": "Mibo.Games.Tiles",
+        "peekOfCode": "def square(mark, number):\n    \"\"\"Draw white square with black outline and number.\"\"\"\n    up()\n    goto(mark.x, mark.y)\n    down()\n    color('black', 'white')\n    begin_fill()\n    for count in range(4):\n        forward(99)\n        left(90)",
+        "detail": "Mibo.Games.Tiles",
+        "documentation": {}
+    },
+    {
+        "label": "tap",
+        "kind": 2,
+        "importPath": "Mibo.Games.Tiles",
+        "description": "Mibo.Games.Tiles",
+        "peekOfCode": "def tap(x, y):\n    \"\"\"Swap tile and empty square.\"\"\"\n    x = floor(x, 100)\n    y = floor(y, 100)\n    mark = vector(x, y)\n    for neighbor in neighbors:\n        spot = mark + neighbor\n        if spot in tiles and tiles[spot] is None:\n            number = tiles[mark]\n            tiles[spot] = number",
+        "detail": "Mibo.Games.Tiles",
+        "documentation": {}
+    },
+    {
+        "label": "draw",
+        "kind": 2,
+        "importPath": "Mibo.Games.Tiles",
+        "description": "Mibo.Games.Tiles",
+        "peekOfCode": "def draw():\n    \"\"\"Draw all tiles.\"\"\"\n    for mark in tiles:\n        square(mark, tiles[mark])\n    update()\nsetup(420, 420, 370, 0)\nhideturtle()\ntracer(False)\nload()\ndraw()",
+        "detail": "Mibo.Games.Tiles",
+        "documentation": {}
+    },
+    {
+        "label": "tiles",
+        "kind": 5,
+        "importPath": "Mibo.Games.Tiles",
+        "description": "Mibo.Games.Tiles",
+        "peekOfCode": "tiles = {}\nneighbors = [\n    vector(100, 0),\n    vector(-100, 0),\n    vector(0, 100),\n    vector(0, -100),\n]\ndef load():\n    \"\"\"Load tiles and scramble.\"\"\"\n    count = 1",
+        "detail": "Mibo.Games.Tiles",
+        "documentation": {}
+    },
+    {
+        "label": "neighbors",
+        "kind": 5,
+        "importPath": "Mibo.Games.Tiles",
+        "description": "Mibo.Games.Tiles",
+        "peekOfCode": "neighbors = [\n    vector(100, 0),\n    vector(-100, 0),\n    vector(0, 100),\n    vector(0, -100),\n]\ndef load():\n    \"\"\"Load tiles and scramble.\"\"\"\n    count = 1\n    for y in range(-200, 200, 100):",
+        "detail": "Mibo.Games.Tiles",
+        "documentation": {}
+    },
+    {
+        "label": "draw",
+        "kind": 2,
+        "importPath": "Mibo.Miscel.Maze",
+        "description": "Mibo.Miscel.Maze",
+        "peekOfCode": "def draw():\n    \"Draw maze.\"\n    color('black')\n    width(5)\n    for x in range(-200, 200, 40):\n        for y in range(-200, 200, 40):\n            if random() > 0.5:\n                line(x, y, x + 40, y + 40)\n            else:\n                line(x, y + 40, x + 40, y)",
+        "detail": "Mibo.Miscel.Maze",
+        "documentation": {}
+    },
+    {
+        "label": "tap",
+        "kind": 2,
+        "importPath": "Mibo.Miscel.Maze",
+        "description": "Mibo.Miscel.Maze",
+        "peekOfCode": "def tap(x, y):\n    \"Draw line and dot for screen tap.\"\n    if abs(x) > 198 or abs(y) > 198:\n        up()\n    else:\n        down()\n    width(2)\n    color('red')\n    goto(x, y)\n    dot(4)",
+        "detail": "Mibo.Miscel.Maze",
+        "documentation": {}
+    },
+    {
+        "label": "Racing",
+        "kind": 6,
+        "importPath": "Mibo.Miscel.Racing",
+        "description": "Mibo.Miscel.Racing",
+        "peekOfCode": "class Racing:\n    def __init__(self) -> None:\n        pass\n    def go(self):\n        # classic shape turtle\n        speed(0)\n        penup()\n        goto(-140, 140)\n        # racing track\n        for step in range(15):",
+        "detail": "Mibo.Miscel.Racing",
+        "documentation": {}
+    },
+    {
+        "label": "tap",
+        "kind": 2,
+        "importPath": "Mibo.FlappyBirds",
+        "description": "Mibo.FlappyBirds",
+        "peekOfCode": "def tap(x, y):\n    \"\"\"Move bird up in response to screen tap.\"\"\"\n    up = vector(0, 30)\n    bird.move(up)\ndef inside(point):\n    \"\"\"Return True if point on screen.\"\"\"\n    return -200 < point.x < 200 and -200 < point.y < 200\ndef draw(alive):\n    \"\"\"Draw screen objects.\"\"\"\n    clear()",
+        "detail": "Mibo.FlappyBirds",
+        "documentation": {}
+    },
+    {
+        "label": "inside",
+        "kind": 2,
+        "importPath": "Mibo.FlappyBirds",
+        "description": "Mibo.FlappyBirds",
+        "peekOfCode": "def inside(point):\n    \"\"\"Return True if point on screen.\"\"\"\n    return -200 < point.x < 200 and -200 < point.y < 200\ndef draw(alive):\n    \"\"\"Draw screen objects.\"\"\"\n    clear()\n    goto(bird.x, bird.y)\n    if alive:\n        dot(10, 'green')\n    else:",
+        "detail": "Mibo.FlappyBirds",
+        "documentation": {}
+    },
+    {
+        "label": "draw",
+        "kind": 2,
+        "importPath": "Mibo.FlappyBirds",
+        "description": "Mibo.FlappyBirds",
+        "peekOfCode": "def draw(alive):\n    \"\"\"Draw screen objects.\"\"\"\n    clear()\n    goto(bird.x, bird.y)\n    if alive:\n        dot(10, 'green')\n    else:\n        dot(10, 'red')\n    for ball in balls:\n        goto(ball.x, ball.y)",
+        "detail": "Mibo.FlappyBirds",
+        "documentation": {}
+    },
+    {
+        "label": "move",
+        "kind": 2,
+        "importPath": "Mibo.FlappyBirds",
+        "description": "Mibo.FlappyBirds",
+        "peekOfCode": "def move():\n    \"\"\"Update object positions.\"\"\"\n    bird.y -= 5\n    for ball in balls:\n        ball.x -= 3\n    if randrange(10) == 0:\n        y = randrange(-199, 199)\n        ball = vector(199, y)\n        balls.append(ball)\n    while len(balls) > 0 and not inside(balls[0]):",
+        "detail": "Mibo.FlappyBirds",
+        "documentation": {}
+    },
+    {
+        "label": "bird",
+        "kind": 5,
+        "importPath": "Mibo.FlappyBirds",
+        "description": "Mibo.FlappyBirds",
+        "peekOfCode": "bird = vector(0, 0)\nballs = []\ndef tap(x, y):\n    \"\"\"Move bird up in response to screen tap.\"\"\"\n    up = vector(0, 30)\n    bird.move(up)\ndef inside(point):\n    \"\"\"Return True if point on screen.\"\"\"\n    return -200 < point.x < 200 and -200 < point.y < 200\ndef draw(alive):",
+        "detail": "Mibo.FlappyBirds",
+        "documentation": {}
+    },
+    {
+        "label": "balls",
+        "kind": 5,
+        "importPath": "Mibo.FlappyBirds",
+        "description": "Mibo.FlappyBirds",
+        "peekOfCode": "balls = []\ndef tap(x, y):\n    \"\"\"Move bird up in response to screen tap.\"\"\"\n    up = vector(0, 30)\n    bird.move(up)\ndef inside(point):\n    \"\"\"Return True if point on screen.\"\"\"\n    return -200 < point.x < 200 and -200 < point.y < 200\ndef draw(alive):\n    \"\"\"Draw screen objects.\"\"\"",
+        "detail": "Mibo.FlappyBirds",
+        "documentation": {}
+    },
+    {
+        "label": "decimal_range",
+        "kind": 2,
+        "importPath": "Mibo.Helper",
+        "description": "Mibo.Helper",
+        "peekOfCode": "def decimal_range(start, stop, increment):\n    while start <= stop: # and not math.isclose(start, stop): Py>3.5\n        yield start\n        start += increment",
+        "detail": "Mibo.Helper",
+        "documentation": {}
+    },
+    {
+        "label": "Mibo",
+        "kind": 6,
+        "importPath": "Mibo.Mibo",
+        "description": "Mibo.Mibo",
+        "peekOfCode": "class Mibo(turtle.Turtle):\n    \"\"\"My own version of turtle\"\"\"\n    def __init__(self,*args,**kwargs):\n        super(Mibo,self).__init__(*args,**kwargs)\n        self.UnitSize = 40\n        self.XColor = 'blue'\n        self.YColor = 'red'\n        self.width = 800\n        self.height = 800\n        self.screen.screensize(canvwidth=self.width, canvheight=self.height)",
+        "detail": "Mibo.Mibo",
+        "documentation": {}
+    },
+    {
+        "label": "press",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def press():\n    t.recatngle(10,10)\ncanvas = t.screen.getcanvas()\nbtn = Button(canvas.master, text=\"This button exists in turtle\",command=press)\nbtn.pack()\nt.screen.mainloop()",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "t",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "t = Mibo()\nt.penup()\nt.goto(0,-5)\nt.pendown()\nt.recatngle(5,5)\nt.recatngleAreaAnimation(5,5)\n#t.circle(2)\ndef press():\n    t.recatngle(10,10)\ncanvas = t.screen.getcanvas()",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "canvas",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "canvas = t.screen.getcanvas()\nbtn = Button(canvas.master, text=\"This button exists in turtle\",command=press)\nbtn.pack()\nt.screen.mainloop()",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "btn",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "btn = Button(canvas.master, text=\"This button exists in turtle\",command=press)\nbtn.pack()\nt.screen.mainloop()",
+        "detail": "main",
+        "documentation": {}
+    }
+]

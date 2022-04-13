@@ -1,13 +1,18 @@
+from tkinter import Button
 from Mibo.Mibo import Mibo
-from Mibo.Miscel.Racing import Racing
 
-# t = Mibo()
-# t.penup()
-# t.goto(0,1)
-# t.pendown()
-# #t.circle(3)
-# t.recatngle(10,4)
-# t.screen.mainloop()
+t = Mibo()
+t.penup()
+t.goto(0,-5)
+t.pendown()
+t.recatngle(5,5)
+t.recatngleAreaAnimation(5,5)
+#t.circle(2)
 
-r = Racing()
-r.go()
+
+def press():
+    t.recatngle(10,10)
+canvas = t.screen.getcanvas()
+btn = Button(canvas.master, text="This button exists in turtle",command=press)
+btn.pack()
+t.screen.mainloop()
